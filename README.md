@@ -1,25 +1,23 @@
-### Hi, I'm Rahul Rajesh 👋
+<div align="center">
 
-Final-year Computer Science & Engineering student at **Christ University, Bangalore** (CGPA 3.6/4.0). I build at the intersection of autonomous AI agent architectures, graph data systems, and full-stack web applications.
+# Rahul Rajesh
 
-- 🔬 **Research:** Co-author on peer-reviewed research accepted at **ACM MobiCom ’26 WiP** (*Pulse Reporter: Autonomous Two-Phase Agentic Framework for Network Resilience Synthesis*).
-- 🏆 **Hackathons:** 3rd Place Winner at the GUVI National Hackathon for *AI Career Copilot*.
-- 🛠️ **Experience:** Internships at the **Internet Society (ISOC)** (LLMs, Model Context Protocol, Neo4j), **ARDC** (Explainable AI), and **eMudhra** (PKI, Cryptography).
-- 🌐 **Live Portfolio:** [rahul-rajesh04.github.io/portfolio-](https://Rahul-Rajesh04.github.io/portfolio-/)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-090a0f?style=for-the-badge&logo=google-chrome&logoColor=2dd4bf)](https://Rahul-Rajesh04.github.io/portfolio-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulrajesh04)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulrajesh1709@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume_PDF-1e293b?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://Rahul-Rajesh04.github.io/portfolio-/assets/RahulRajesh_Resume.pdf)
 
----
-
-### 💻 Core Stack & Tooling
-
-- **AI & Agents:** LangGraph, Model Context Protocol (MCP), Google Gemini API, SHAP, ELI5, Scikit-Learn
-- **Languages:** Python, TypeScript, JavaScript, SQL, C/C++, Bash
-- **Web & Design:** React, Node.js, Tailwind CSS, Figma (UI/UX), HTML5/CSS3
-- **Systems & Data:** Neo4j (Graph DB), Git, Linux, PKI / Cryptography, Wireshark
+</div>
 
 ---
 
-### 📬 Connect With Me
+### 👨‍💻 About Me
 
-- **Portfolio:** [Rahul's Portfolio](https://Rahul-Rajesh04.github.io/portfolio-/)
-- **LinkedIn:** [linkedin.com/in/rahulrajesh04](https://www.linkedin.com/in/rahulrajesh04)
-- **Email:** [rahulrajesh1709@gmail.com](mailto:rahulrajesh1709@gmail.com)
+Final-year Computer Science & Engineering undergraduate at **Christ University, Bangalore** (CGPA: 3.6 / 4.0 | Highest Sem GPA: 3.83). 
+
+My engineering focus centers on **autonomous AI agent architectures (LangGraph, Model Context Protocol)**, **graph database modeling (Neo4j)**, and **systems security**. Experienced in bridging interface design from Figma into responsive production code, and rapidly prototyping automated research workflows using modern LLM APIs.
+
+- 🔬 **Peer-Reviewed Research:** Co-author on paper accepted at **ACM MobiCom ’26 WiP** (*Pulse Reporter: Autonomous Two-Phase Agentic Framework for Network Resilience Synthesis*).
+- 🏆 **Hackathon Recognition:** **3rd Place Winner** at the GUVI National Hackathon for *AI Career Copilot*.
+- 💼 **Industry Internships:** **Internet Society (ISOC)** (AI Agents & MCP), **ARDC** (Explainable AI), and **eMudhra** (PKI & Cryptography).
+- 🌐 **Live Site:** Explore interactive architecture previews at [rahul-rajesh04.github.io/portfolio-](https://Rahul-Rajesh04.github.io/portfolio-/)
